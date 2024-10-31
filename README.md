@@ -1,12 +1,13 @@
 # Features of Movie-Web
---Search Movies: Quickly search for movies by title, genre, or release year to find your favorites or discover something new.
---Trending Movies: View a list of currently trending movies to stay updated on popular picks.
---Detailed Movie Information: Access in-depth details for each movie, including cast, director, genre, release date, ratings, and reviews.
---Responsive Design: Fully responsive layout for seamless browsing on mobile, tablet, and desktop devices.
---API Integration: Real-time data fetched from [specific API name] to provide up-to-date information on movies, ensuring accurate details.
---High-Quality Images: Display high-resolution movie posters and backdrops for a visually immersive experience.
---Trending Movies: View a curated list of the top trending movies, updated in real-time to showcase popular picks.
---Personalized Movie Recommendations: Receive movie recommendations based on viewing history, popular genres, and user preferences, helping users find content they’re likely to enjoy.
+
+- **Search Movies**: Quickly search for movies by title, genre, or release year to find your favorites or discover something new.
+- **Trending Movies**: View a list of currently trending movies to stay updated on popular picks.
+- **Detailed Movie Information**: Access in-depth details for each movie, including cast, director, genre, release date, ratings, and reviews.
+- **Responsive Design**: Fully responsive layout for seamless browsing on mobile, tablet, and desktop devices.
+- **API Integration**: Real-time data fetched from [specific API name] to provide up-to-date information on movies, ensuring accurate details.
+- **High-Quality Images**: Display high-resolution movie posters and backdrops for a visually immersive experience.
+- **Trending Movies**: View a curated list of the top trending movies, updated in real-time to showcase popular picks.
+- **Personalized Movie Recommendations**: Receive movie recommendations based on viewing history, popular genres, and user preferences, helping users find content they’re likely to enjoy.
 
 
 # Getting Started with Create React App

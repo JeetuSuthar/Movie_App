@@ -62,7 +62,7 @@ const Header = () => {
                                 onChange={(e)=>setSearchInput(e.target.value)}
                                 value={searchInput}
                             />
-                            <button  className='text-2xl text-white '>
+                            <button  className='text-2xl text-white hidden sm:block'>
                             <FaSearch />
 
                             </button>
